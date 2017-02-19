@@ -1,2 +1,16 @@
+Release 0: http://imgur.com/elbu1rF
+
+Release 1: http://imgur.com/HwfvGvd
+
+Release 2: Enforcing time constraints
+
+Bagaimana caranya untuk menyelesaikan permasalahan?
+Jawab: Siswa tidak dapat menghadiri lebih dari satu mata pelajaran di saat yg bersamaan dan sistem akan mengecek pelanggaran, 
+karena di setiap kelas telah ditetapkan jadwal dan mata pelajaran yg di setting validasinya pada database.
+Jika melakukannya dengan kode JavaScript, pelanggaran akan bisa terjadi.
+
+Bagaimana caranya untuk menyelesaikan permasalahan cross-listing classes?
+Jawab: Desain skema yang diterapkan adalah one-to-many, sehingga siswa dapat memiliki banyak kelas dan dan kelas memiliki
+banyak pelajaran dari berbagai jurusan.
 
 
